@@ -1,4 +1,5 @@
 {
-  "name": "24Hr room service",
-  "order": 4
+  "name": "Dry cleaning/laundry service",
+  "order": 4,
+  "hidden": false
 }
